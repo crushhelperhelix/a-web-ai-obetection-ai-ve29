@@ -1,4 +1,4 @@
-# 
+# Seguro A web AI object detection scripts. Con analítica predictiva y optimización de modelos — optimizado para el máximo rendimiento.
 
 
 
